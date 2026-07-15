@@ -25,6 +25,8 @@ if button:
     if choice=="Div":
         result = fnum/snum
 st.success(f"Result is {result}")
-
+ 
 st.balloons
 st.snow
+
+
